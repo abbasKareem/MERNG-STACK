@@ -1,0 +1,16 @@
+{
+  "name": "merng",
+  "version": "1.0.0",
+  "description": "Build a social media app (Mongodb, Express, React, Node, Graphql)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbas Kareem",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.11.18"
+  }
+}
